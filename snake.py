@@ -202,7 +202,6 @@ class SnakeGame:
 		pygame.display.flip()
 	
 	def show_game_over(self):
-
 		restart_button_posx,restart_button_posy = 270,250
 		restart_button_width,restart_button_height = 100,40
 		restart = False
@@ -281,4 +280,4 @@ if __name__ == "__main__":
 
 	main()
 
-# Jacintho MPETEYE #
+# Jacintho E.M.K. MPETEYE #
